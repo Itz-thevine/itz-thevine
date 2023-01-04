@@ -11,4 +11,4 @@ I am a Brand identity designer and a Front-end web developer. I love creating ti
 - 💬 Ask me about Javascript, SPAs (ReactJs, NextJs, Vue Js).
 - 📫 How to reach me: twitter @ik_thevine
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy travelling and making new friends.
+- ⚡ Fun fact: In my free time, you can find me playing games or listening to music. Fun fact: I have written about 3 songs in my book!
