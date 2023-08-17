@@ -2,7 +2,7 @@
 
 
 
-I am a Brand identity designer and a Front-end web developer. I love creating timeless, unique designs and collaborations with people on projects.
+I am an enthusiastic Front-end web developer. I love creating timeless, unique designs and collaborations with people on projects.
 
 - 🔭 I’m currently working on myself to better solve problems.
 - 🌱 I’m currently learning as much as to be better at what I love doing, Solving problems.
