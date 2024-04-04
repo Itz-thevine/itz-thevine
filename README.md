@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ikechukwu Divine 🖥️</h1>
+### Hi 👋, I'm Ikechukwu Divine 🖥️
 
-<h3 align="center">I am a passionate and results-driven software engineer with a proven track record of delivering high-quality, user-centric solutions with a background in Computer Science. I am passionate about solving complex problems and finding creative solutions. Whether it's optimizing code performance, debugging issues, or architecting scalable applications, I enjoy the challenge of tackling problems head-on and delivering elegant solutions that meet user needs.</h3>
+
+
+I am a passionate and results-driven software engineer with a proven track record of delivering high-quality, user-centric solutions with a background in Computer Science. I am passionate about solving complex problems and finding creative solutions. Whether it's optimizing code performance, debugging issues, or architecting scalable applications, I enjoy the challenge of tackling problems head-on and delivering elegant solutions that meet user needs.
 
 
 - 🔭 I’m currently working on Products that matters [Timbu](https://app.timbu.cloud/)
