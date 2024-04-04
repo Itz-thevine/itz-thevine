@@ -23,9 +23,9 @@ I am a passionate and results-driven software engineer with a proven track recor
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ik_thevine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ik_thevine" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/divine-ikechukwu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/divine-ikechukwu/" height="30" width="40" /></a>
-<a href="https://instagram.com/ik_thevine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ik_thevine" height="30" width="40" /></a>
+<a href="https://twitter.com/ik_thevine" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ik_thevine" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/divine-ikechukwu/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/divine-ikechukwu/" height="30" width="40" /></a>
+<a href="https://instagram.com/ik_thevine" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ik_thevine" height="30" width="40" /></a>
 </p>
 
 
