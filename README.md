@@ -5,11 +5,11 @@
 I am a passionate and results-driven software engineer with a proven track record of delivering high-quality, user-centric solutions with a background in Computer Science. I am passionate about solving complex problems and finding creative solutions. Whether it's optimizing code performance, debugging issues, or architecting scalable applications, I enjoy the challenge of tackling problems head-on and delivering elegant solutions that meet user needs.
 
 
-- 🔭 I’m currently working on Products that matters [Timbu](https://app.timbu.cloud/)
+- 🔭 I’m currently working on Products that matter [Timbu](https://app.timbu.cloud/)
 
-- 👯 I’m looking to collaborate on Gigs, roles, contracts [my portfolio](https://vinedev.netlify.app/)
+- 👯 I’m looking to collaborate on Gigs, roles, and contracts [my portfolio](https://vinedev.netlify.app/)
 
-- 📫 How to reach me **divineikechukwu2021@gmail.com,**
+- 📫 How to reach me **divineikechukwu2021@gmail.com**
 
 - 🌱 I’m currently learning as much as to be better at what I love doing, Solving problems.
 
